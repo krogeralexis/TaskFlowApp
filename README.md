@@ -10,7 +10,7 @@ This is a simple project management system built with Java and Spring Boot. It a
 - Get notifications for task updates and project changes.
 
 ## Technologies Used
-- **Java 17+**
+- **Java 21+**
 - **Spring Boot** for backend development.
 - **Spring Security** for user authentication.
 - **MySQL** for database management.
