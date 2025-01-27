@@ -20,7 +20,7 @@ This is a simple project management system built with Java and Spring Boot. It a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/project-management-system.git
+    git clone https://github.com/krogeralexis/TaskFlowApp.git
     ```
 
 2. Configure your MySQL database in `application.properties`:
