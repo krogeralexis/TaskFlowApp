@@ -1,4 +1,4 @@
-# Project Management System
+# TaskFlow App
 
 ## Description
 This is a simple project management system built with Java and Spring Boot. It allows teams to manage projects, assign tasks, and track progress. Users can also comment on tasks, attach files, and receive notifications. It's designed to help with better collaboration and visibility across team projects.
